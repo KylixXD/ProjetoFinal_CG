@@ -14,7 +14,6 @@ Determinando a salvar sua cidade e restaurar a paz, ele embarca em uma jornada c
 
 - **Exploração em mundo aberto**: Ande livremente pela cidade e explore os arredores, enfrentando desafios e descobrindo segredos.
 - **Combate dinâmico**: Enfrente os mortos-vivos em intensos combates em terceira pessoa, usando uma variedade de armas e habilidades.
-- **Missões principais e secundárias**: Complete a missão principal de resgatar a cidade e realize tarefas secundárias para fortalecer seu personagem.
 - **Ambiente imersivo**: Mergulhe em um mundo detalhado, com paisagens e cenários inspirados no Velho Oeste.
 
 ## Tecnologias Utilizadas
@@ -22,7 +21,6 @@ Determinando a salvar sua cidade e restaurar a paz, ele embarca em uma jornada c
 - **Unity**: Engine de desenvolvimento para criar a experiência 3D.
 - **C#**: Linguagem de programação utilizada para o desenvolvimento de scripts e lógicas do jogo.
 - **Blender**: Software de modelagem 3D utilizado para criar os personagens e ambientes.
-- **Substance Painter**: Ferramenta para texturização de modelos 3D.
 
 ## Como Jogar
 
