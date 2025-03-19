@@ -26,7 +26,7 @@ Determinando a salvar sua cidade e restaurar a paz, ele embarca em uma jornada c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/another-west.git
+   git clone https://github.com/KylixXD/ProjetoFinal_CG.git
 
 ## Contribuições
 
